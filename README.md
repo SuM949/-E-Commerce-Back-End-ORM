@@ -28,3 +28,6 @@ THEN I am able to successfully create, update, and delete data in my database
   Contact me with any questions: 
  [Email](mailto:sumayabile8@gmail.com) , [Github](https://github.com/SuM949)
 
+ ## Walk Throw video 
+ [Watch the video](https://drive.google.com/file/d/1CnNAOFf4JGzC4yOYphVrxdwyVXJ5NqjY/view?usp=sharing)
+
